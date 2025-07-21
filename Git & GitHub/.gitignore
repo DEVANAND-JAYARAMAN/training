@@ -1,0 +1,9 @@
+# Compiled binary
+/go-calculator
+
+# OS files
+.DS_Store
+
+# Editor config
+*.vscode/
+*.idea/
