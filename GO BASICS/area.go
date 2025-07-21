@@ -1,3 +1,5 @@
+//Calculate the area of a circle using a constant for Pi
+
 package main
 
 import "fmt"
